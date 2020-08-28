@@ -27,7 +27,9 @@ app.get("/about", function (req, res) {
   res.render("about");
 });
 
-
+app.get("/calculators", function (req, res) {
+  res.render("calculators");
+});
 
 
 

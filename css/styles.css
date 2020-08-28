@@ -2,6 +2,13 @@ body {
   background-color: #E8ECEF;
 }
 
+
+
+footer {
+  text-align: center;
+  font-size: 2em;
+}
+
 .centered {
     padding-top: 50px;
     text-align: center;
