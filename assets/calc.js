@@ -15,3 +15,12 @@ function calcBMI(metric) {
     // BMI = (Weight in Pounds / (Height in inches x Height in inches)) x 703
   };
 };
+
+
+function createOutput(){
+  //h2
+  //body
+  //definition
+  //value
+  
+};
