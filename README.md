@@ -22,8 +22,8 @@ a single place.
 
 Provide code examples and explanations of how to get the project, e.g.,
 
-	git clone https://github.com/Jasonnor/README.md.git
-    nodemon app.js
+	git clone https://github.com/tomrhudson/great-calc.git
+  nodemon app.js
 
 ## Usage
 
