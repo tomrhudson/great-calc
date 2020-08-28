@@ -39,4 +39,4 @@ Feel free to add any calculators that are missing or improvements to the code / 
 
 ## License
 
-A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
+[MIT](http://opensource.org/licenses/mit-license.php)
