@@ -1,5 +1,13 @@
 //jshint esversion:6
 
+function createOutput(){
+  //h2
+  //body
+  //definition
+  //value
+
+};
+
 // BMI Calculator
 function calcBMI(metric) {
   metric = true;
@@ -16,11 +24,7 @@ function calcBMI(metric) {
   };
 };
 
-
-function createOutput(){
-  //h2
-  //body
-  //definition
-  //value
-  
+function poundsToKilograms(pounds) {
+  // 1 pound = 2.2046 kg
+  var result = pounds / 2.2046;
 };
